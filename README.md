@@ -1,9 +1,9 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
-  <img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Scotti&show_icons=true&theme=synthwave" alt="Scotti's GitHub stats"/>
+  <img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=Pedro-Henrique-7&show_icons=true&theme=synthwave" alt="Scotti's GitHub stats"/>
 
-  <a href="https://github.com/Leonardo-Scotti/github-readme-stats">
-    <img style="height: 199px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Scotti&theme=synthwave" alt="Top Langs"/>
+  <a href="https://github.com/Pedro-Henrique-7/github-readme-stats">
+    <img style="height: 199px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-7&theme=synthwave" alt="Top Langs"/>
   </a>
 </div>
 
