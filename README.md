@@ -1,5 +1,6 @@
 # 💫 About Me:
-- Cursando Ciências de Dados<br>- Apaixonado por Tecnologia
+- Cursando Ciências de Dados<br>
+- Apaixonado por Tecnologia
 
 
 ## 🌐 Socials:
