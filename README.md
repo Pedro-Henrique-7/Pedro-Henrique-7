@@ -1,9 +1,9 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 - Cursando Ciências de Dados<br>
 - Apaixonado por Tecnologia
 
 
-## 🌐 Socials:
+## 🌐 Midias Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pedro Henrique Oliveira da Silva) 
 
 # 💻 Tech Stack:
